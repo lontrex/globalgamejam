@@ -1,0 +1,3 @@
+If you don't have the unity webplayer plugin, install it.
+Then, open the file "WebPlayer" inside "hEARt\release\WebPlayer" folder to play
+
